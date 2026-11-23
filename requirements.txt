@@ -1,0 +1,6 @@
+numpy
+opencv-python
+mediapipe
+sounddevice
+scikit-learn
+matplotlib
